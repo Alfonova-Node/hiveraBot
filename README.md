@@ -43,7 +43,7 @@ A decentralized network power by @ton_blockchain, backed by @Ton_Incubator. Cont
 
 ## ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-This project is licensed under the [MIT License](LICENSE).
+Source : https://github.com/Zlkcyber
 
 
 
