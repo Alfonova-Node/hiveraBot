@@ -58,7 +58,7 @@ async function fetchAuthData(userData, agent) {
 
 async function fetchInfoData(userData, agent) {
     try {
-        const response = await fetch(`${url}referral?referral_code=2b6a4dfc8&auth_data=${encodeURIComponent(userData)}`, {
+        const response = await fetch(`${url}referral?referral_code=265c71a92&auth_data=${encodeURIComponent(userData)}`, {
             agent: agent
         });
         return response;
